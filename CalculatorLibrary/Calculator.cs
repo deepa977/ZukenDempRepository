@@ -23,6 +23,13 @@ namespace CalculatorLibrary
         public int Div(int x,int y)
         {
             return (x/y);
+        
+
+            }
+        public string HelloWorld()
+        {
+            return "Good Afternoon";
         }
+             
     }
 }
